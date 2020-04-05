@@ -99,16 +99,16 @@ Documentation manager and author of white papers, use cases, functional specific
 
 ## Professional Development
 
-    * **Instructional Design for Adult Training,** Schulich School of Business, Toronto, ON, 2015.
-    * **Articulate Storyline Expert Training**: Yukon Learning, Toronto, ON, 2012.
-    * **Certificate**: Microsoft SQL Server Administration and Development, Humber College, Toronto, ON, 2010.
-    * **Certified Information Systems Security Professional** \(CISSP\) Review, Ryerson University, Toronto, ON, 2006.
+ * **Instructional Design for Adult Training,** Schulich School of Business, Toronto, ON, 2015.
+ * **Articulate Storyline Expert Training**: Yukon Learning, Toronto, ON, 2012.
+ * **Certificate**: Microsoft SQL Server Administration and Development, Humber College, Toronto, ON, 2010.
+ * **Certified Information Systems Security Professional** \(CISSP\) Review, Ryerson University, Toronto, ON, 2006.
 
 ## Education
 
 * **Applied Information Technologist \(AIT\) Diploma,** Information Technology Institute, Toronto, ON. Nine-month postgraduate, team-based program with courses and projects involving business analysis, requirements gathering, research and solutions development using Microsoft network and application development, Oracle, and PowerBuilder technologies.
 
-    * **Bachelor of Commerce \(Honours Business Administration\),** University of Windsor, ON.
+* **Bachelor of Commerce \(Honours Business Administration\),** University of Windsor, ON.
 
 Specialized in Finance and Logistics Management.
 
