@@ -2,7 +2,7 @@
 description: CV
 ---
 
-# Kar Saj
+# Karim Sajan
 
 ## Summary
 
