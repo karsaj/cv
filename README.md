@@ -110,11 +110,11 @@ Documentation manager and author of white papers, use cases, functional specific
 
 * **Bachelor of Commerce \(Honours Business Administration\),** University of Windsor, ON.
 
-Specialized in Finance and Logistics Management.
+    Specialized in Finance and Logistics Management.
 
 * **Bachelor of Arts \(Honours\),** York University, Glendon College, Toronto, ON.
 
-Specialized in Economics. Majored in English Literature and Philosophy. Functional in French.
+    Specialized in Economics. Majored in English Literature and Philosophy. Functional in French.
 
 ## Azure Cloud-based Portfolio
 
